@@ -1,0 +1,9 @@
+label{
+    display: block; /*bloco vai ocupar toda a linha*/
+    font-family: 'Fira Code', monospace;
+    font-weight: 400px;
+    font-size: 25px;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 15px; /*espaçamento na margem inferior*/
+}

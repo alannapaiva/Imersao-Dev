@@ -1,0 +1,22 @@
+button{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 420px;
+    height: 55px;
+    font: inherit;
+    border: none;
+    border-radius: 0;
+    background-color: #7c5e99;
+    color: #fff;
+    font-size: 20px;
+    cursor: pointer;
+    box-shadow: 4px 4px 0px #000;
+    transition: transform 200ms ease-in-out;
+}
+
+button:hover{
+    transform: scale(1.05);
+    background-color: #fff;
+    color: #F25A70;
+}
