@@ -1,0 +1,101 @@
+:root{
+    --color-first: #F25A70;
+    --color-second: #bb6cfe;
+    --color-third: #ffffff;
+
+    --color-black-first: #000;
+}
+
+body{
+    background-color: #bb6cfe;
+    background-size: cover;
+    font-family:'Press Start 2P', cursive;
+}
+
+section {
+    -webkit-box-shadow: 5px 5px 50px 8px rgba(0, 0, 0, 0.59);
+    box-shadow: 5px 5px 50px 8px rgba(0, 0, 0, 0.59);
+  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 500px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    background-color: white;
+    padding: 15px;
+    border: 0;
+    box-shadow: 7px 7px 0 var(--color-black-first);
+}
+
+section h1{
+    font-size: 25px;
+}
+
+header{
+    background-image: url("https://images4.alphacoders.com/100/thumb-350-1008904.png");
+    height: 80px;
+    background-size: cover;
+    
+}
+
+section h2{
+    font-size: 17px;
+}
+
+section li{
+    font-size: 14px;
+
+}
+div{
+    padding: 15px;
+    background-color: #bb6cfe4f;
+    background-size: 400px;
+  
+    border: 1px solid black;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display:block;
+    transform: translateY(-80px);
+    border: 8px solid white;
+}
+
+span {
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;  
+}
+  
+
+a:link, a:visited {
+      text-decoration: none;
+}
+
+a:hover {
+    font-weight: 900;
+    transform: scale(1.05);
+    transition-duration: 1s;
+    -webkit-box-shadow: 5px 5px 50px 8px rgba(0, 0, 0, 0.59);
+    box-shadow: 5px 5px 50px 8px rgba(0, 0, 0, 0.59);
+}
+
+a:active {
+      text-decoration: none;
+}
+  
+  
+li svg {
+    transform: translateY(30%);
+}
+  
+li:hover {
+    transform: scale(1.05);
+    transition-duration: 1s;
+}
