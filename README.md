@@ -11,7 +11,7 @@
 <li><a href = "https://github.com/alannapaiva/Imersao-Dev/tree/main/Aula06">Desafio da aula 06</a></li>
 
 
-<img href = "https://images4.alphacoders.com/100/thumb-350-1008904.png">
+<img src = "https://images4.alphacoders.com/100/thumb-350-1008904.png">
 
 
 
